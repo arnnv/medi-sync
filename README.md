@@ -65,6 +65,8 @@ medi-sync-prod/
 ```bash
 git clone https://github.com/arnnv/medi-sync.git
 cd medi-sync
+git submodule init
+git submodule update
 ```
 
 ### Frontend Setup
