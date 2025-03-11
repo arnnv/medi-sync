@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <!-- Background Circle -->
+  <circle cx="150" cy="150" r="140" fill="#f0f9ff" stroke="#3b82f6" stroke-width="6"/>
+  
+  <!-- Heartbeat Line -->
+  <path d="M50 150 L90 150 L105 120 L120 180 L135 120 L150 180 L165 120 L180 180 L195 120 L210 150 L250 150" 
+        fill="none" stroke="#2563eb" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Medical Cross -->
+  <rect x="125" y="70" width="50" height="15" rx="5" fill="#ef4444"/>
+  <rect x="142.5" y="52.5" width="15" height="50" rx="5" fill="#ef4444"/>
+  
+  <!-- Sync Circular Arrows -->
+  <path d="M115 210 A40 40 0 1 1 175 210" fill="none" stroke="#10b981" stroke-width="6" stroke-linecap="round"/>
+  <polygon points="175,210 185,220 185,200" fill="#10b981"/>
+  
+  <!-- MediSync Text -->
+  <text x="150" y="250" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1e40af">MediSync</text>
+</svg>
