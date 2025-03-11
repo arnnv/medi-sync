@@ -2,6 +2,10 @@
 
 MediSync is a comprehensive medical imaging platform that uses AI to analyze X-ray images, detect fractures, and generate detailed medical reports. The system combines a modern React frontend with a powerful AI-driven backend to provide healthcare professionals with an efficient tool for medical image analysis.
 
+## Deployment
+
+The project is live at [https://medisynk.vercel.app/](https://medisynk.vercel.app/).
+
 ## 🚀 Features
 
 - **AI-Powered X-ray Analysis**: Automatically detect fractures and classify body parts in X-ray images
